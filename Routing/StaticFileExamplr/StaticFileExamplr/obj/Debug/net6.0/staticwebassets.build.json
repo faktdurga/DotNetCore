@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "ofiAQspr80YQYrhGnXETnMUDqgaIGUA9bb9hxhe8Qiw=",
+  "Source": "StaticFileExamplr",
+  "BasePath": "_content/StaticFileExamplr",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFileExamplr\\wwwroot",
+      "Source": "StaticFileExamplr",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\StaticFileExamplr\\StaticFileExamplr\\wwwroot\\",
+      "BasePath": "_content/StaticFileExamplr",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\StaticFileExamplr\\StaticFileExamplr\\wwwroot\\Basics , HTTP and Middleware Notes.docx",
+      "SourceId": "StaticFileExamplr",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\StaticFileExamplr\\StaticFileExamplr\\wwwroot\\",
+      "BasePath": "_content/StaticFileExamplr",
+      "RelativePath": "Basics , HTTP and Middleware Notes.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Basics , HTTP and Middleware Notes.docx"
+    },
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\StaticFileExamplr\\StaticFileExamplr\\wwwroot\\PRO Unlimited Announces Company Rebrand, Changes Name to Magnit.pdf",
+      "SourceId": "StaticFileExamplr",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\StaticFileExamplr\\StaticFileExamplr\\wwwroot\\",
+      "BasePath": "_content/StaticFileExamplr",
+      "RelativePath": "PRO Unlimited Announces Company Rebrand, Changes Name to Magnit.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PRO Unlimited Announces Company Rebrand, Changes Name to Magnit.pdf"
+    }
+  ]
+}
