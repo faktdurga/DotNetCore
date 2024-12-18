@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "WYQFCtiKYLIEoK+6UuVEM6DOAM41sdqo1AClY7ctlFY=",
+  "Source": "BankApplicationAssignment",
+  "BasePath": "_content/BankApplicationAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankApplicationAssignment\\wwwroot",
+      "Source": "BankApplicationAssignment",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\BankApplicationAssignment\\BankApplicationAssignment\\wwwroot\\",
+      "BasePath": "_content/BankApplicationAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\BankApplicationAssignment\\BankApplicationAssignment\\wwwroot\\BankStatement.pdf",
+      "SourceId": "BankApplicationAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\BankApplicationAssignment\\BankApplicationAssignment\\wwwroot\\",
+      "BasePath": "_content/BankApplicationAssignment",
+      "RelativePath": "BankStatement.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BankStatement.pdf"
+    }
+  ]
+}
