@@ -1,0 +1,47 @@
+﻿@using ViewsExample.Model
+@model PersonAndProductWrapper
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Person and product</title>
+    <meta charset="utf-8"/>
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="page-content">
+        <h1>Person and Product</h1>
+        <div class="box w-100">
+            <h1>Person</h1>
+            <table class="table w-50">
+                <tr>
+                    <td>Person Name</td>
+                    <td>@Model.personData.Name</td>
+                </tr>
+                <tr>
+                    <td>Person DOB</td>
+                    <td>@Model.personData.DOB?.ToString("MM/dd/yyyy")</td>
+                </tr>
+                <tr>
+                    <td>Person Gender</td>
+                    <td>@Model.personData.PersonGender</td>
+                </tr>
+            </table>
+        </div>
+        <div class="box w-100">
+            <h1>Product</h1>
+            <table class="table w-50">
+                <tr>
+                    <td>Product ID</td>
+                    <td>@Model.productData.ProductID</td>
+                </tr>
+                <tr>
+                    <td>Person Name</td>
+                    <td>@Model.productData.ProductName</td>
+                </tr>                
+            </table>
+        </div>
+    </div>
+</body>
+</html>

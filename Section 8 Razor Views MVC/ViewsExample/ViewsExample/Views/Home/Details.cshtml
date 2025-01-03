@@ -1,0 +1,28 @@
+﻿
+@model Person
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Plain Body</title>
+    <meta charset="utf-8"/>
+    <link href="~/StyleSheet.css" rel="stylesheet"/>
+</head>
+<body>
+    <h1>Person Details</h1>
+    <div class="page-content">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <td>Gender</td>
+                    <td>@Model.PersonGender</td>
+                </tr>
+                <tr>
+                    <td>Date Of Birth</td>
+                    <td>@Model.DOB?.ToString("MM/dd/yyyy")</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
