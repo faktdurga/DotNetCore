@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/L49oUrm90GSpN0sAywE8XCNfWblsKP/PEJp12F54YA=",
+  "Source": "LayoutViewsExample",
+  "BasePath": "_content/LayoutViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViewsExample\\wwwroot",
+      "Source": "LayoutViewsExample",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\LayoutViewsExample\\LayoutViewsExample\\wwwroot\\",
+      "BasePath": "_content/LayoutViewsExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
