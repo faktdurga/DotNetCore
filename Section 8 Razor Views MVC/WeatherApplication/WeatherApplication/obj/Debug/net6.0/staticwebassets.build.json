@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QmjsKLe7IjDnYxzH5vV2dKmYDGJjyEFgVmbN8bUXQQE=",
+  "Source": "WeatherApplication",
+  "BasePath": "_content/WeatherApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherApplication\\wwwroot",
+      "Source": "WeatherApplication",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherApplication\\WeatherApplication\\wwwroot\\",
+      "BasePath": "_content/WeatherApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherApplication\\WeatherApplication\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherApplication\\WeatherApplication\\wwwroot\\",
+      "BasePath": "_content/WeatherApplication",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

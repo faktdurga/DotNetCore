@@ -1,0 +1,58 @@
+﻿@model IEnumerable<City>
+
+@{
+    string? GetColor(int temp)
+    {
+        if(temp < 40 )
+        {
+            return "blue-back";
+        }
+        else if( temp >= 44 && temp <= 74)
+        {
+            return "green-back";
+        }
+        else
+        {
+            return "orange-back";
+        }
+    }
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>      
+    <title>Document</title>
+    <meta charset="UTF-8">
+    <link href="~/StyleSheet.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="container">
+        <div class="page-content">
+            <div class="margin-bottom">
+                <h1>Weather</h1>
+            </div>
+
+            <div class="margin-top-200 margin-left">
+                <div class="flex">
+                    @foreach(City city in Model)
+                    {
+                    <div class="box cursor-pointer w-30 @GetColor(city.Temprature)" >
+                        <div class="flex-borderless">
+                            <div class="w-50">
+                                <h2>@city.CityName</h2>
+                                <h2>@city.DateAndTime?.ToString("MM/dd/yyy")</h2>
+                            </div>
+                            <div class="w-50 border-left">
+                                <h1>@city.Temprature F</h1>
+                            </div>
+                        </div>
+                            <a href="/weather/@city.CityUniqueCode">Details</a>
+                    </div>
+                   
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
