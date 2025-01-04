@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "L7zthO6RewoFPXZ49AoQhP7yND1om/6HZKp3qalJrYI=",
+  "Source": "WeatherAppWithLayoutView",
+  "BasePath": "_content/WeatherAppWithLayoutView",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppWithLayoutView\\wwwroot",
+      "Source": "WeatherAppWithLayoutView",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherAppWithLayoutView\\WeatherAppWithLayoutView\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithLayoutView",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherAppWithLayoutView\\WeatherAppWithLayoutView\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAppWithLayoutView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherAppWithLayoutView\\WeatherAppWithLayoutView\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithLayoutView",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
