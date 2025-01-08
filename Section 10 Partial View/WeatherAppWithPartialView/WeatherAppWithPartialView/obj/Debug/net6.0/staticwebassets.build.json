@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "61MwLmSlYGPA/E++45ojVpBbt/4g/nOq/6Cs5I49b6k=",
+  "Source": "WeatherAppWithPartialView",
+  "BasePath": "_content/WeatherAppWithPartialView",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppWithPartialView\\wwwroot",
+      "Source": "WeatherAppWithPartialView",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherAppWithPartialView\\WeatherAppWithPartialView\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithPartialView",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherAppWithPartialView\\WeatherAppWithPartialView\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAppWithPartialView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\WeatherAppWithPartialView\\WeatherAppWithPartialView\\wwwroot\\",
+      "BasePath": "_content/WeatherAppWithPartialView",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
