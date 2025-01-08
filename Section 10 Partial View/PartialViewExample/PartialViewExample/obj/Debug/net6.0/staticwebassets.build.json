@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "rCM3mP/tLVcIM73QlH/yjz9YBgpWeNTqNMaVTdGwAYM=",
+  "Source": "PartialViewExample",
+  "BasePath": "_content/PartialViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewExample\\wwwroot",
+      "Source": "PartialViewExample",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
