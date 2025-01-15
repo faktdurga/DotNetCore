@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QGlbHP/4rUqpANGlUfwnrWu0r2kI/ILWN9Nx0rWyuQY=",
+  "Source": "DIExample",
+  "BasePath": "_content/DIExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DIExample\\wwwroot",
+      "Source": "DIExample",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\01. Services\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\01. Services\\DIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "DIExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\01. Services\\DIExample\\wwwroot\\",
+      "BasePath": "_content/DIExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

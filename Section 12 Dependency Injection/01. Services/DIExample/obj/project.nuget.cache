@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZiLFbKQzL72zpH9DSPzK+GylsL/Epg/yXxNJxTOLrUC6Ii5zksD0I8TyfuUfcN1ARsMi6LEDXclbLNZn99jvwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\01. Services\\DIExample\\DIExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DURGA\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\DURGA\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\DURGA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DURGA\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
