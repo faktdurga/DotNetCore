@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TMjeP4konYvXP2IpLBlUGQv0BS81mK07Xyu4mcF4ogw=",
+  "Source": "SocialMediaLink",
+  "BasePath": "_content/SocialMediaLink",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SocialMediaLink\\wwwroot",
+      "Source": "SocialMediaLink",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\SocialMediaLink\\SocialMediaLink\\wwwroot\\",
+      "BasePath": "_content/SocialMediaLink",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\SocialMediaLink\\SocialMediaLink\\wwwroot\\StyleSheet.css",
+      "SourceId": "SocialMediaLink",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DURGA\\Desktop\\Study\\Dot Net Core Study\\SocialMediaLink\\SocialMediaLink\\wwwroot\\",
+      "BasePath": "_content/SocialMediaLink",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
